@@ -26,7 +26,7 @@ public class CalculatorObject {
 
 
     // I create my locator number 1
-    @AndroidFindBy(id="com.miui.calculator:id/btn_1_s")
+    @AndroidFindBy(id="digit_1")
     private AndroidElement number1;
 
     public void touchNumber1(){
