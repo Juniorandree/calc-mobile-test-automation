@@ -4,37 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46c87faa-ec2d-48eb-9ac2-d74d5c6838f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/suites/7.0_EmuladorSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="bf37e1c6-861a-43b1-9bb9-a0143508102d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/objects/CalculatorObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/objects/CalculatorObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steps/CalculatorSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/CalculatorSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/backyardigans/lucia.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/backyardigans/lucia.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints>
-      <file url="file://$PROJECT_DIR$/src/test/resources/backyardigans/maria.feature" />
-    </disable_hints>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JavaFXApplication" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
-  <component name="ProjectId" id="2UPIYs1VV0zlvGMTKUAGZiWpp4J" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": -1
+}]]></component>
+  <component name="ProjectId" id="2VPSZ1MrAQPfZ9eG5ZBhhiTFMTO" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -46,36 +34,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "QA",
-    "last_opened_file_path": "C:/Users/QA/IdeaProjects/calc-mobile-test-automation",
-    "onboarding.tips.debug.path": "C:/Users/QA/IdeaProjects/calc-mobile-test-automation/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "git-widget-placeholder": "class/wednesday__13__09__2023"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.C:/Users/QA/IdeaProjects/calc-mobile-test-automation/src/test/resources/suites/7.0_EmuladorSuite.xml">
-    <configuration name="Feature: lucia" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/backyardigans/lucia.feature" />
-      <option name="GLUE" value="steps" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="calc-mobile-test-automation" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
-      <option name="SUGGESTED_NAME" value="Feature: lucia" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="C:/Users/QA/IdeaProjects/calc-mobile-test-automation/src/test/resources/suites/7.0_EmuladorSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="calc-mobile-test-automation" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/suites/7.0_EmuladorSuite.xml" />
@@ -86,74 +48,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/QA/IdeaProjects/calc-mobile-test-automation/src/test/resources/suites/7.0_Suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="calc-mobile-test-automation" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/suites/7.0_Suite.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="calc-mobile-test-automation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="runners.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="runners" />
-      <option name="MAIN_CLASS_NAME" value="runners.TestRunner" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestRunner.feature" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="calc-mobile-test-automation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="runners.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="runners" />
-      <option name="MAIN_CLASS_NAME" value="runners.TestRunner" />
-      <option name="METHOD_NAME" value="feature" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.C:/Users/QA/IdeaProjects/calc-mobile-test-automation/src/test/resources/suites/7.0_EmuladorSuite.xml" />
-        <item itemvalue="TestNG.TestRunner.feature" />
-        <item itemvalue="TestNG.C:/Users/QA/IdeaProjects/calc-mobile-test-automation/src/test/resources/suites/7.0_Suite.xml" />
-        <item itemvalue="Cucumber Java.Feature: lucia" />
-        <item itemvalue="TestNG.TestRunner" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="46c87faa-ec2d-48eb-9ac2-d74d5c6838f2" name="Changes" comment="" />
-      <created>1692834843443</created>
+      <changelist id="bf37e1c6-861a-43b1-9bb9-a0143508102d" name="Changes" comment="" />
+      <created>1694736278558</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1692834843443</updated>
+      <updated>1694736278558</updated>
     </task>
     <servers />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
