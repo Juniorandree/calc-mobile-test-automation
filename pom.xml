@@ -30,6 +30,7 @@
             <artifactId>cucumber-testng</artifactId>
             <version>1.2.5</version>
         </dependency>
+
         <dependency>
             <groupId>info.cukes</groupId>
             <artifactId>cucumber-java</artifactId>
@@ -38,7 +39,7 @@
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
-            <version>6.14.3</version>
+            <version>6.9.10</version>
             <scope>test</scope>
         </dependency>
     </dependencies>

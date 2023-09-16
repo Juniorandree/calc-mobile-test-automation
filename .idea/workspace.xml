@@ -6,9 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="bf37e1c6-861a-43b1-9bb9-a0143508102d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/objects/CalculatorObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/objects/CalculatorObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/steps/CalculatorSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/CalculatorSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/backyardigans/lucia.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/backyardigans/lucia.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/backyardigans/maria.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/backyardigans/maria.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/suites/7.0_Suite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/suites/11.0_Suite.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,10 +19,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": -1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: -1
+}</component>
   <component name="ProjectId" id="2VPSZ1MrAQPfZ9eG5ZBhhiTFMTO" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -30,13 +31,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "class/wednesday__13__09__2023"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;classh/thrusday__14__09__2023&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="C:/Users/QA/IdeaProjects/calc-mobile-test-automation/src/test/resources/suites/7.0_EmuladorSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="calc-mobile-test-automation" />
