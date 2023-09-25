@@ -8,8 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/steps/CalculatorSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/CalculatorSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/backyardigans/maria.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/backyardigans/maria.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/suites/7.0_Suite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/suites/11.0_Suite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runners/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/TestRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;classh/thrusday__14__09__2023&quot;
+    &quot;git-widget-placeholder&quot;: &quot;class/friday__15__09__2023&quot;
   }
 }</component>
   <component name="RunManager">
